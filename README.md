@@ -1,3 +1,6 @@
+# It is a sample Ecommerce Database
+
+
 An E-commerce SQL database is a structured repository designed to store and manage data for online retail operations. It serves as a foundational 
 component for organizing and retrieving information related to customers, products, orders, and inventory. The database utilizes the Structured Query Language (SQL) to define tables, 
 relationships, and queries, ensuring efficient and secure data handling. Through tables like Customers, Products, Orders, and Inventory, the database enables the systematic storage of customer details, 
